@@ -365,6 +365,13 @@ section .title::after{
 .skills-content .right .python::before{
     width: 90%;
 }
+
+.skills-content .right .java::before{
+    width: 50%;
+}
+.skills-content .right .aad::before{
+    width: 05%;
+}
 .skills-content .right .c1::before{
     width: 60%;
 }
